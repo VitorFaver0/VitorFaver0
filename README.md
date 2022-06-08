@@ -1,8 +1,7 @@
 ## Vitor Favero
  <div>
   <a href="https://github.com/VitorFaver0>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Endriw-Ventura&show_icons=true&theme=ocean_dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Endriw-Ventura&layout=compact&langs_count=7&theme=ocean_dark"/>
+ 
 </div>
 
   <a href="https://www.youtube.com/channel/UCUr1byZFMO3ekhg2v0S6TkA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
